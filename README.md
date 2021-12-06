@@ -5,4 +5,4 @@ Panel ise File zilla üzerinden bağlanarak servers>unturned>rocket>plugins Kıs
 
 panel kısa yol dösya yöneticisi>servers>unturned>rocket>plugins girip Yükle butununa basın sonra .dll olan dosyayı seçin ve tamama'a basın 
 
-vds rocket plugins kısmına atın
+vds rocket plugins kısmına atın .dll olanını atın
